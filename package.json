@@ -1,7 +1,7 @@
 {
   "name": "react-dates-gte-react-17",
-  "version": "22.0.0",
-  "description": "A responsive and accessible date range picker component built with React",
+  "version": "22.0.1",
+  "description": "A responsive and accessible date range picker component built with React. Fork for React 17 and React 18.",
   "main": "index.js",
   "scripts": {
     "prebuild": "npm run clean",
