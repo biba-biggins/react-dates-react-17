@@ -1,4 +1,4 @@
-# react-dates <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
+# react-dates-gte-react-17 <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
 
 [![Build Status][travis-svg]][travis-url]
 [![License][license-image]][license-url]
