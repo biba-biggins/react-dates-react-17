@@ -341,7 +341,7 @@
 ## 15.2.0
 - [new] Add back today modifier (and class) ([#861](https://github.com/react-dates/react-dates/pull/861))
 - [new] Add ariaLabelFormat prop to CalendarDay ([#842](https://github.com/react-dates/react-dates/pull/842), [#857](https://github.com/react-dates/react-dates/pull/857))
-- [fix] Reset `after-hover-start` in `componentWillReceiveProps` instead of only on click ([#843](https://github.com/react-dates/react-dates/pull/843))
+- [fix] Reset `after-hover-start` in `UNSAFE_componentWillReceiveProps` instead of only on click ([#843](https://github.com/react-dates/react-dates/pull/843))
 - [fix] Use `color.background` variable instead of hardcoded #fff for theming ([#852](https://github.com/react-dates/react-dates/pull/852))
 - [fix] Update CalendarMonthGrid months based on locale change ([#795](https://github.com/react-dates/react-dates/pull/795))
 
@@ -426,7 +426,7 @@
 - [fix] Export `DayPickerSingleDateController` in index.js ([#609](https://github.com/react-dates/react-dates/pull/609))
 
 ## 12.2.2
-- [fix] Reevaluate `--blocked` and `--blocked-outside-range` modifiers in the SDP componentWilLReceiveProps ([#550](https://github.com/react-dates/react-dates/pull/550))
+- [fix] Reevaluate `--blocked` and `--blocked-outside-range` modifiers in the SDP UNSAFE_componentWillReceiveProps ([#550](https://github.com/react-dates/react-dates/pull/550))
 
 ## 12.2.1
 - [fix] Fix `isTouchDevice` warning in `DayPickerSingleDateController` ([77e2135](https://github.com/react-dates/react-dates/commit/77e2135d2009994fbf2c62e3ff68ce82e5786194))
