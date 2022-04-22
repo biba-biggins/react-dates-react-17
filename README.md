@@ -1,8 +1,6 @@
 # react-dates <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
 
 [![Build Status][travis-svg]][travis-url]
-[![dependency status][deps-svg]][deps-url]
-[![dev dependency status][dev-deps-svg]][dev-deps-url]
 [![License][license-image]][license-url]
 [![Downloads][downloads-image]][downloads-url]
 
@@ -10,8 +8,10 @@
 
 > An easily internationalizable, accessible, mobile-friendly datepicker library for the web.
 
-![react-dates in action](https://raw.githubusercontent.com/react-dates/react-dates/HEAD/react-dates-demo.gif)
+![react-dates in action](https://raw.githubusercontent.com/rebelliard/react-dates/HEAD/react-dates-demo.gif)
 
+## React 17 / React 18 support:
+This fork of [react-dates@^21.8.0](https://www.npmjs.com/package/react-dates) replaces the deprecated lifecycle methods with their ["unsafe"](https://reactjs.org/blog/2019/08/08/react-v16.9.0.html#new-deprecations) counterparts.
 ## Live Playground
 
 For examples of the datepicker in action, go to [react-dates.github.io](https://react-dates.github.io/react-dates/).
