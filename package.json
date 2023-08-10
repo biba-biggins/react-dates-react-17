@@ -1,6 +1,6 @@
 {
-  "name": "react-dates-gte-react-17",
-  "version": "22.0.1",
+  "name": "react-dates-react-17",
+  "version": "1.0.0",
   "description": "A responsive and accessible date range picker component built with React. Fork for React 17 and React 18.",
   "main": "index.js",
   "scripts": {
@@ -41,14 +41,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rebelliard/react-dates-gte-react-17.git"
+    "url": "git+https://github.com/biba-biggins/react-dates-react-17.git"
   },
   "author": "Maja Wichrowska <maja.wichrowska@airbnb.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rebelliard/react-dates-gte-react-17/issues"
+    "url": "https://github.com/biba-biggins/react-dates-react-17/issues"
   },
-  "homepage": "https://github.com/rebelliard/react-dates-gte-react-17#readme",
+  "homepage": "https://github.com/biba-biggins/react-dates-react-17#readme",
   "devDependencies": {
     "@babel/cli": "^7.16.8",
     "@babel/core": "^7.16.12",
